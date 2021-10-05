@@ -10,3 +10,11 @@ namespace Lab1
         }
     }
 }
+
+namespace MyFirstLab
+{
+    class mylab
+    {
+
+    }
+}
